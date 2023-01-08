@@ -1,6 +1,6 @@
 # IoT Smart Kitchen
   A smart kitchen is defined as an area composed of kitchen equipment that is connected via Wi-Fi or Bluetooth. The equipment found in smart kitchens connects to other tech such as your phone or tablet, allowing you to control appliances remotely.
-  <img src="https://user-images.githubusercontent.com/72027411/211218005-4976b08e-57dd-4ee7-8f4f-7d2579be5c0f.jpg" width="300" height="300">
+  <br> <img src="https://user-images.githubusercontent.com/72027411/211218005-4976b08e-57dd-4ee7-8f4f-7d2579be5c0f.jpg" width="300" height="300">
 
 ## Sensors Used
   - Arduino (NodeMCU32): NodeMCU is a low-cost open source IoT platform. It initially included firmware which runs on the ESP8266 Wi-Fi SoC from Espressif Systems, and hardware which was based on the ESP-12 module. Later, support for the ESP32 32-bit MCU was added.
